@@ -1,4 +1,4 @@
-# DeepSeek AI Chat Application
+# DeepSeek AI Chat Application（基于Reflex框架构建）
 
 一个基于DeepSeek API的智能聊天应用，采用Reflex框架构建，具有科技感和小清新的UI设计。
 
